@@ -1,4 +1,5 @@
-FROM barichello/godot-ci:latest
+FROM barichello/godot-ci:4.1
+#FROM barichello/godot-ci:latest
 
 LABEL "com.github.actions.name"="Build Godot"
 LABEL "com.github.actions.description"="Build a Godot project for multiple platforms"
