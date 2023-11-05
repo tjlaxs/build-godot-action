@@ -1,4 +1,4 @@
-FROM barichello/godot-ci:4.1
+FROM barichello/godot-ci:4.0.3
 #FROM barichello/godot-ci:latest
 
 LABEL "com.github.actions.name"="Build Godot"
