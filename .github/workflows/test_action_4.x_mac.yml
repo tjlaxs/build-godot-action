@@ -1,4 +1,4 @@
-name: Test Action 4.x
+name: Test Action 4.x MAC
 on:
   workflow_dispatch:
   push:
