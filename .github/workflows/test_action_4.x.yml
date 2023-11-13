@@ -14,6 +14,6 @@ jobs:
       uses: ./
       with:
         name: test_project
-        preset: linux
+        preset: mac
         projectDir: 4.x_test_project
         package: 'true'
